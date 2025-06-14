@@ -8,7 +8,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb7cbdf8-2417-48d8-8771-838009b2317d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TwoPlayerBattleGame/Map_Loader.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TwoPlayerBattleGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TwoPlayerBattleGame/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1749737191990</updated>
       <workItem from="1749737192827" duration="4095000" />
-      <workItem from="1749820927526" duration="1226000" />
+      <workItem from="1749820927526" duration="2302000" />
     </task>
     <task id="LOCAL-00001" summary="Program init">
       <option name="closed" value="true" />
@@ -134,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749740643843</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Map Loader just Started">
+      <option name="closed" value="true" />
+      <created>1749822611221</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749822611221</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +155,8 @@
     <MESSAGE value="Game class" />
     <MESSAGE value="Game class and Window Init" />
     <MESSAGE value="Assets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assets" />
+    <MESSAGE value="Map Loader just Started" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map Loader just Started" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
